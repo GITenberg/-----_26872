@@ -1,0 +1,31 @@
+_repo: '-----_26872'
+_version: 0.1.0
+alternative_title: Hai Shang Hua Lie Zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Han, Bangqing
+    aliases:
+    - 韩邦庆
+    - 韓邦慶
+    birthdate: 1856
+    deathdate: 1894
+    gutenberg_agent_id: '32288'
+    url: http://www.gutenberg.org/2009/agents/32288
+    wikipedia: http://zh.wikipedia.org/wiki/%E9%9F%93%E9%82%A6%E6%85%B6
+description: ''
+gutenberg_issued: '2008-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26872'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+- !lcc 'PL'
+title: 海上花列傳
+url: http://www.gutenberg.org/ebooks/26872
