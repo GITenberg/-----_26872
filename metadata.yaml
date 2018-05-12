@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32288
     wikipedia: http://zh.wikipedia.org/wiki/%E9%9F%93%E9%82%A6%E6%85%B6
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26872#-----
 gutenberg_issued: '2008-10-11'
 gutenberg_type: Text
 identifiers:
